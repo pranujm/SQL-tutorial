@@ -27,7 +27,9 @@ SELECT *
 FROM employee_demographics
 ORDER BY gender, age DESC;
 
-/* ---------------------------------------------------------------------------------- */
+
+/* ------------------------------------------------------------------------------------------------------------------------------------------------------------ */
+
 
 /* GROUP BY */
 /* GROUP BY groups together rows that have the same values in the specified columns */
