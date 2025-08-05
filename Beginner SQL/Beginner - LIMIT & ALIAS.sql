@@ -38,6 +38,10 @@ FROM employee_demographics
 ORDER BY first_name
 LIMIT 3, 2;
 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 /* ALIASING */
 /* ALIASING is just a way to change the name of the column */ 
 
